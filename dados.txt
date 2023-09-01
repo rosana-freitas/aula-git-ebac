@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: rosana freitas
+-Profissão: farmacêutica
+-Cidade: xangri-la
+-O que faz nas horas vagas: estudo
+-Feedback sobre o curso Qualidade de Software: muito difícil para quem nao é da área e desconhece codigo
+-Feedback sobre a plataforma de estudo da EBAC: plataforma me parece boa, porém tenho dificuldades pois não sou da área.
+
+Obrigado!!!
+
+
